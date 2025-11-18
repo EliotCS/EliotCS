@@ -28,27 +28,40 @@
  <tr>
   <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><span style="color: white;">Python</span>
-   
-</td>
+<br><span>Python</span></td>
+  <td align="center" width="90">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" width="48" alt="java" />
+   <br> <span>Java</span></td>
+
+   <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="48" width="48" alt="javascript" />
+    <br> <span>JavaScript</span>
+   </td>
+
+  <td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="html5" />
+    <br> <span>HTML</span>
+  </td>
+
+  <td align="center" width="90">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
+     <br> <span>CSS</span>
+  </td>
+
  </tr>
 </table>
-<div align="left">
- <td align="center" width="96">
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-  <img width="8" />
-</div>
 
 
+<h2>Databases</h2>
+<table>
+ <tr>
+  <td>
+   
+  </td>
+ </tr>
+</table>
 
----
+
 
 <h2>📊 GitHub Stats</h2>
 
