@@ -120,6 +120,10 @@
       <br><span>Cloudflare</span>
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
+      <br><span>Heroku</span>
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br><span>GitHub</span>
     </td>
