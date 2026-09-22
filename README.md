@@ -14,16 +14,35 @@
 
 <table>
   <tr>
-    <td width="50%">
-      STILL IN THE WORKS
+    <td width="50%" valign="top">
+      🎓 <b>Education</b>
+      <br/>
+      Double Major in Computer Science & Financial Technology at New Jersey Institute of Technology
+      <br/><br/>
+       🔍<b>Focus Areas</b>
+      <br/>
+      Full-Stack Engineering & Software Systems
+      <br/><br/>
+      🛠️ <b>Current Activity</b>
+      <br/>
+      Building full-stack web apps & mastering CS fundamentals
     </td>
-    <td width="50%">
-      STILL WORKING
+    <td width="50%" valign="top">
+      🎯 <b>Target</b>
+      <br/>
+      Open to Software Engineering Internships
+      <br/><br/><br/>
+      📍 <b>Location</b>
+      <br/>
+      Newark, New Jersey
+      <br/><br/>
+      🚀 <b>Interests</b>
+      <br/>
+      Full-Stack, AI/ML, FinTech, Blockchain, Cloud/DevOps
     </td>
   </tr>
 </table>
 
-<br />
 
 <h2>💻 Programming Languages</h2>
 
@@ -82,6 +101,11 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br><span>Node.js</span>
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br><span>Laravel</span>
+    </td>
+    
   </tr>
 </table>
 
