@@ -9,41 +9,39 @@
   <img src="https://komarev.com/ghpvc/?username=EliotCS&label=Profile%20Views&color=466965&style=for-the-badge" alt="Profile views" />
 </p>
 </div>
-
 <h2>ℹ️ About Me</h2>
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      🎓 <b>Education</b>
-      <br/>
-      Double Major in Computer Science & Financial Technology at New Jersey Institute of Technology
-      <br/><br/>
-       🔍<b>Focus Areas</b>
-      <br/>
-      Full-Stack Engineering & Software Systems
-      <br/><br/>
-      🛠️ <b>Current Activity</b>
-      <br/>
-      Building full-stack web apps & mastering CS fundamentals
+      <b>🎓 Education</b>
+      <ul>
+        <li>CS & FinTech Double Major @ NJIT</li>
+      </ul>
+      <b>💻 Focus Areas</b>
+      <ul>
+        <li>Full-Stack Engineering & Software Systems</li>
+      </ul>
+      <b>🛠️ Current Activity</b>
+      <ul>
+        <li>Building full-stack web apps & mastering CS fundamentals</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      🎯 <b>Target</b>
-      <br/>
-      Open to Software Engineering Internships
-      <br/><br/><br/>
-      📍 <b>Location</b>
-      <br/>
-      Newark, New Jersey
-      <br/><br/>
-      🚀 <b>Interests</b>
-      <br/>
-      Full-Stack, AI/ML, FinTech, Blockchain, Cloud/DevOps
+      <b>🎯 Target</b>
+      <ul>
+        <li>Open to Software Engineering Internships</li>
+      </ul>
+      <b>📍 Location</b>
+      <ul>
+        <li>Newark, New Jersey</li>
+      </ul>
+      <b>🚀 Interests</b>
+      <ul>
+        <li>Full-Stack, AI/ML, FinTech, Blockchain, Cloud/DevOps</li>
+      </ul>
     </td>
   </tr>
 </table>
-
-
 <h2>💻 Programming Languages</h2>
 
 <table> 
