@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=EliotCS&label=Profile%20Views&color=466965&style=for-the-badge" alt="Profile views" />
 </p>
 </div>
+
 <h2>ℹ️ About Me</h2>
 <table>
   <tr>
@@ -42,8 +43,8 @@
     </td>
   </tr>
 </table>
-<h2>💻 Programming Languages</h2>
 
+<h2>💻 Programming Languages</h2>
 <table> 
   <tr> 
     <td align="center" width="90">
@@ -73,18 +74,7 @@
   </tr>
 </table>
 
-<h2>🤖 AI/ML & Data Science</h2>
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <br><span>In Progress</span>
-    </td>
-  </tr>
-</table>
-
 <h2>🌐 Web Development & Frameworks</h2>
-
 <table>
   <tr>
     <td align="center" width="90">
@@ -103,12 +93,19 @@
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br><span>Laravel</span>
     </td>
-    
+  </tr>
+</table>
+
+<h2>🤖 AI/ML & Data Science</h2>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <span>In Progress</span>
+    </td>
   </tr>
 </table>
 
 <h2>☁️ Cloud & DevOps</h2>
-
 <table>
   <tr>
     <td align="center" width="90">
@@ -135,7 +132,6 @@
 </table>
 
 <h2>🗄️ Databases</h2>
-
 <table>
   <tr>
     <td align="center" width="90">
@@ -145,6 +141,28 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br><span>MongoDB</span>
+    </td>
+  </tr>
+</table>
+
+<h2>🛠️ Developer Tools & Software</h2>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br><span>VS Code</span>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48" width="48" alt="Eclipse" />
+      <br><span>Eclipse</span>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
+      <br><span>MATLAB</span>
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Minitab-0073E6?style=flat-square&logo=minitab&logoColor=white" height="28" alt="Minitab" />
+      <br><span>Minitab</span>
     </td>
   </tr>
 </table>
@@ -167,7 +185,7 @@
         <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
       </a>
     </td>
-    <td align="center" width=30%">
+    <td align="center" width="30%">
       <b>Send a Message</b>
       <br/>
       <a href="mailto:ep355@njit.edu">
