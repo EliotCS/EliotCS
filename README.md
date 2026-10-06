@@ -89,10 +89,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br><span>Node.js</span>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br><span>Laravel</span>
-    </td>
+  
   </tr>
 </table>
 
