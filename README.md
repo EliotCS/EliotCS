@@ -101,7 +101,7 @@
   </tr>
 </table>
 
-<h2>🤖 AI/ML & Data Science</h2>
+<h2>🤖 AI/ML & Data Science & Generative AI</h2>
 <table>
   <tr>
     <td align="center" width="110">
