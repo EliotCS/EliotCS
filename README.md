@@ -89,6 +89,14 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br><span>Node.js</span>
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br><span>Vite</span>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br><span>FastAPI</span>
+    </td>
   
   </tr>
 </table>
@@ -96,8 +104,9 @@
 <h2>🤖 AI/ML & Data Science</h2>
 <table>
   <tr>
-    <td align="center" width="120">
-      <span>In Progress</span>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="36" alt="Gemini API" />
+      <br><span>Gemini API</span>
     </td>
   </tr>
 </table>
