@@ -136,9 +136,9 @@
 <h2>🗄️ Databases</h2>
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br><span>PostgreSQL</span>
+<td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><span>MySQL</span>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
