@@ -82,10 +82,6 @@
       <br><span>React</span>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br><span>Next.js</span>
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br><span>Node.js</span>
     </td>
